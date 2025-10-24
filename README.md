@@ -8,7 +8,7 @@ our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a>
  (<b>TensorFlow Flexible UNet Image Segmentation Model for Multiclass</b>)
 , and a 512x512 pixels PNG dataset <a href="https://drive.google.com/file/d/1c5eIb3dX7leSoza1pVzESClI6nc4OBUZ/view?usp=sharing">
 Augmented-MVTEC-TILE-ImageMask-Dataset.zip</a> with colorized masks 
- which was derived by us from <b>cable</b> subset of 
+ which was derived by us from <b>tile</b> subset of 
 <a href="https://www.mvtec.com/company/research/datasets/mvtec-ad">
 <b>The MVTec anomaly detection dataset
 </a>
